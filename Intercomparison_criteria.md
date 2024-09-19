@@ -1,35 +1,39 @@
-# Echelles:
-  - temporelle: snapshot ou intégration sur la journée (ou autre)
-  - spatiale: capteur, organe, plante, branche / rameau (dans le cas d'un arbre) ?, scène entière / couvert.
+# Scales:
+  - Temporal: snapshot or integration over the day (or other)
+  - Spatial: sensor, organ, plant, branch / twig (in the case of a tree)?, entire scene / canopy.
 
 # Variables:
-  - capteurs -> éclairement / irradiance
-  - pas de capteurs -> absorbtion et irradiance
-  - par unité de surface
-  - Rediffusion: pour comparer les modèles entre eux, séparer le 1er ordre et la rediffusion.
-  - Définition de bandes de longueur d'onde, e.g. dans les bandes extrèmes ou il peut y avoir bcp de rediffusion ou infrarouge..
-  - Application photomorphogénèse: rayonnement directionnel. Est ce que les modèles peuvent le sortir ? Est ce qu'il y a des données ?
+  - Sensors -> illumination / irradiance
+  - No sensors -> absorption and irradiance
+  - Per unit area
+  - Scattering: to compare models with each other, separate the first order and scattering.
+  - Definition of wavelength bands, e.g., in extreme bands where there may be a lot of reradiation or infrared...
+  - Application to photomorphogenesis: directional radiation. Can the models output this? Are there data available?
 
 # Critères:
-## Calcul:
-  - Ref: 1 CPU, sur une seule machine
-  - Parallélisation: scale jusqu'à combien de procs ?
-  - GPU ? Est-ce que ça marche ?
-  - Jusuqu'à quelle complexité on peut aller avec quel modèle
-  - Permet de justifier le choix d'un modèle en fonction des ressources disponibles
-  - Evaluation sur des scènes intégrées dans le temps ou snapshot
-## Evaluation capteurs:
-  - RMSEp et biais, model efficiency
-  - autre ?
-## Génériques
-  - critères de dispertion: "relative distance RDP" (?) -> permet de voir si un modèle est vraiment différent des autres
-  - dispertion
-  - A l'échelle de l'organe:
-    - préciser la situation dans la scène: + / - haut ou bas dans le couvert,
-    - selon l'orientation de l'organe
-  - Sensibilité des modèles à certain paramètres
-    - ciel
-    - propriétés optiques
-    - structure
+## Calculation
+  - Ref: 1 CPU, on a single machine
+  - Parallelization: scale up to how many processors?
+  - GPU? Does it work?
+  - Up to what complexity can we go with which model
+  - Allows justifying the choice of a model based on available resources
+    Evaluation on scenes integrated over time or snapshot
+
+## Evaluation ofr sensor measurements:
+  - RMSEp and biais, model efficiency
+  - other ?
+  - 
+## Generic
+
+  - Dispersion criteria: "relative distance RDP" (?) -> allows seeing if a model is really different from others
+  - Dispersion
+      At the organ scale:
+        Specify the situation in the scene: + / - high or low in the canopy,
+        Depending on the orientation of the organ
+    Sensitivity of models to certain parameters
+        Sky
+        Optical properties
+        Structure
+
 ## Resolution
-  - Faire une étude de sensibilité sur la résolution, et lien avec le temps de calcul.
+  - Conduct a sensitivity study on resolution and link it with computation time.
