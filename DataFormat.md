@@ -9,10 +9,31 @@
  - optional : surronding environment (greenhouse, ...)
  - UNITS
 
-## What is the format
+## 3D scene
 
+### Input Format
 
-- 
-- xeg
-- MTG
-- gltf
+#### Geometry
+- Geometry is **gltf** : uid for organs + mesh
+- if not : *OBJ*
+- or *PLY* (use blender for conversion)
+
+* Soil?
+#### Optical property
+- uid : optical property (txt)
+
+#### Lights
+
+- sky will be represnted as various lights
+- With metainformation : sky in latitude and longitude 
+
+## Global format
+
+- JSON 
+- Metainformation
+- Plants : file(s)
+- Plant *topology* : group of organs at different scales : uid -> [uid]
+- Environment : soil + GH
+- Lights :
+- Optical properties
+- Results : file name 
