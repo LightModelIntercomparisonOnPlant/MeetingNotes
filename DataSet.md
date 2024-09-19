@@ -2,7 +2,7 @@
 # Scene with light measurement :
 
 - Growth chamber:
-  - Rose (Jessica) : PO, Geoemetry, Lamp, PAR Sensors, Ref simulation
+  - Rose (Jessica) : PO, Geoemetry, Lamp, PAR Sensors, Ref simulation (doi to provide)
   - Palm tree (ecotron) : Archi Lidar, No PO, Lamp, Sensors
      - Requires calibration for PO and Lamp position
 - Field measurement:
