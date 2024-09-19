@@ -4,7 +4,7 @@
 
 # Variables:
   - capteurs -> éclairement / irradiance
-  - pas de capteurs -> absorbtion.
+  - pas de capteurs -> absorbtion et irradiance
   - par unité de surface
   - Rediffusion: pour comparer les modèles entre eux, séparer le 1er ordre et la rediffusion.
   - Définition de bandes de longueur d'onde, e.g. dans les bandes extrèmes ou il peut y avoir bcp de rediffusion ou infrarouge..
@@ -19,7 +19,7 @@
   - Permet de justifier le choix d'un modèle en fonction des ressources disponibles
   - Evaluation sur des scènes intégrées dans le temps ou snapshot
 ## Evaluation capteurs:
-  - RMSEp et biais
+  - RMSEp et biais, model efficiency
   - autre ?
 ## Génériques
   - critères de dispertion: "relative distance RDP" (?) -> permet de voir si un modèle est vraiment différent des autres
