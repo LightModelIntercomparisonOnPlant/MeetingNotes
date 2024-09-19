@@ -1,21 +1,21 @@
 
-# Scene with light measurement :
+# Scene with light measurement
 
 - Growth chamber:
   - Rose (Jessica) : PO, Geoemetry, Lamp, PAR Sensors, Ref simulation (doi to provide)
   - Palm tree (ecotron) : Archi Lidar, No PO, Lamp, Sensors
      - Requires calibration for PO and Lamp position
 - Field measurement:
-  -  Mango tree : Archi, PO, PAR Sensors, GHI (2 month)
+  -  Mango tree (Fred) : Archi, PO, PAR Sensors, GHI (2 month)
       - Leaf position and size are characterized by rules, No diffuse
-  - Maize : Archi (skeleton+ planar leaf shape), PAR Sensors, GHI
+  - Maize (Michael): Archi (skeleton+ planar leaf shape), PAR Sensors, GHI
       - No PO, No diffuse
-  - Vine : Archi (with leaf), PAR Sensors, Weather (direct and diffuse ?)
+  - Vine (Benoit): Archi (with leaf), PAR Sensors, Weather (direct and diffuse ?)
       - No PO
-  - Walnut : Archi (no leaf), Sensors ?
+  - Walnut (PIAF/Marc): Archi (no leaf), Sensors ?
       - Requires explanation
-  - Grass land ? : Scan, Archi reconstruction, directional sensors next to the plant,
-      - Sensors gives information on plant reflectance      
+  - Grass land (Didier) : Scan, Archi reconstruction, directional sensors next to the plant,
+      - Sensors gives information on plant reflectance 
 
 # Theoretical scene
 - polygon soup
