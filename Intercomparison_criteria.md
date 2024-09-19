@@ -22,7 +22,7 @@
 ## Evaluation ofr sensor measurements:
   - RMSEp and biais, model efficiency
   - other ?
-  - 
+
 ## Generic
 
   - Dispersion criteria: "relative distance RDP" (?) -> allows seeing if a model is really different from others
