@@ -29,3 +29,6 @@
 - intercroping (pea + wheat, alfalfa + tall fescue, white clover + tall fescue, wheat + alfalfa)
 - agroforetry (cocoa tree (measured) + banana (),  eucalyptus (?), rubber tree (?), palm tree (simulated) + rice)
    - to build
+
+# Sky and light input
+  - To be discussed
