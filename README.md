@@ -8,7 +8,7 @@
 * Presentation at FSPM 2026
 * Open to participation
 * Data paper published
-* Publication open to the community
+* Publication on intercomparison open to the community
 
 
 2. 
