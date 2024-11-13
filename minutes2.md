@@ -26,6 +26,11 @@ Writers : Aurelien and Christophe
 * Christian Fournier
 * Christophe Pradal
 * Gaetan Heidsieck
-* Tim?
+* Arman Grumel
 * Romain Barillot
+* Remi Vezy
+* Thomas Arsouze
 * *Add your name*
+
+## Excused
+* Raphael Perez
