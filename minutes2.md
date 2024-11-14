@@ -10,9 +10,9 @@ Writers : Aurelien and Christophe
 
 2. Development : What's new? 
 
-* [Reading and writing PlantGL scene](https://github.com/LightIntercomparisonOnPlant/SceneManagement/blob/main/tutorials/scene_tuto.ipynb) (Aurelien) (5mn)
-* [Definition of a radiative scene](https://github.com/LightIntercomparisonOnPlant/TemplateScene) (Christian) (5mn)
-* [Tutorial](https://github.com/LightIntercomparisonOnPlant/SceneManagement/blob/main/tutorials/caribu_tuto.ipynb) : Runing Caribu on the radiave scene (Aurelien)
+* [Reading and writing PlantGL scene](https://github.com/LightModelIntercomparisonOnPlant/SceneManagement/blob/main/tutorials/scene_tuto.ipynb) (Aurelien) (5mn)
+* [Definition of a radiative scene](https://github.com/LightModelIntercomparisonOnPlant/TemplateScene) (Christian) (5mn)
+* [Tutorial](https://github.com/LightModelIntercomparisonOnPlant/SceneManagement/blob/main/tutorials/caribu_tuto.ipynb) : Runing Caribu on the radiave scene (Aurelien)
 
 3. Next steps : Your contributions
 
