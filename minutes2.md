@@ -27,13 +27,10 @@ Writers : Aurelien and Christophe
 * Christophe Pradal
 * Gaetan Heidsieck
 * Tim Oberlaender
-* Arman Grumel
 * Romain Barillot
-* Didier Combes
 * Remi Vezy
 * Thomas Arsouze
-* Jessica Bertheloot
-* *Add your name*
 
 ## Excused
 * Raphael Perez
+* Arman Grumel
