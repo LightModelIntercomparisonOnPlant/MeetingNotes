@@ -34,3 +34,20 @@ Writers : Aurelien and Christophe
 ## Excused
 * Raphael Perez
 * Arman Grumel
+
+## Meeting
+- Add opf format in scene management (remi)
+- Add global frame in scene management (christophe)
+- complete a tutorial scene (Christian)
+- add a wrapper to archimed (remi/christian)
+- romain : make a tutorial to provide a scene with MTG, optical properties and the results with Caribu.
+- tim : import the scene to GROIMP
+- tim :  run the scene management code and the run of the models in Docker. Not only in Python.
+- Thomas: archimed (remi/thomas). Design an architecture to work on Docker.
+- Gaetan : provide a dummy scene
+- Remi : Documentation of the scene.
+- Remi : how to manage a sky rather than ponctual lights
+- Remi : export the scene to ops
+- Remi : use case with palm tree, coffee and cocoa
+- Romain : RATP / RER
+
